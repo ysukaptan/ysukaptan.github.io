@@ -1,103 +1,66 @@
+body{
+    font-family: Tahoma;
+    font-size: 12px;
+    background-image: url(yeniicerik.jpg);
+    margin: 0px;
+}
+
+audio{
+    height: 20px;
+    width: 1900px;
+}
 #banner{
-    background-color: 	#B71C1C;
-    color: white;
-    font-size: 40px;
-    height: 40px;
-    padding: 50px;
+    font-size: xx-large;
     text-align: center;
-    line-height: 50px;
-    border: 2px solid;
-    border-color: black;
+    background-image: url(banner.gif);
+    line-height: 28px;
+    padding: 50px;
+    border: 0px solid;
+    border-color:red;
+    color: white;
 }
 
 #menu{
     float: left;
-    background-color: 	#BDBDBD;
-    height: 825px;
-    width: 180px;
-    border: 1px solid;
+    font-size: x-large;
+    text-align: center;
+    background-image: url(menu.jpg);
+    border: 0px solid;
+    border-color: #0A2540;
+    width: 150px;
 }
 
 #icerik{
-    background-color: #E0E0E0;
     float: center;
-    padding: 20px;
-    height: 785px;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #BBDEFB;
+    border: 0px solid;
+    border-color: #810239;
+    height: 850px;
 }
 
-body{
-    margin: 0px;
-    font-family: tahoma;
-    font-size: 12px;
-    background-color: #E0E0E0;
-    border: 2px solid;
+#menu a{
+    line-height: 290px;
+    color: white;
+    text-decoration: none;
 }
 
-#anasayfa{
-    padding: 20px;
-    margin: 20px;
-    font-size: 22px;
+#menu a:hover{
+    font-size: 30px;
+    text-decoration: none;
+    color: wheat;
+}
+
+#menu a:visited:hover{
+    font-size: 30px;
+    text-decoration: none;
+    color: wheat;
+}
+
+#menu a:visited{
     line-height: 150px;
-}
-
-#anasayfa a{
-    text-decoration: none;
     color: white;
-}
-
-#anasayfa a:visited{
     text-decoration: none;
-    color: white;
-}
-
-#anasayfa a:hover{ /* üzerine geldiğinde */
-    text-decoration: none;
-    color: red;
-    font-size: 25px;
-}
-
-#hakkinda{
-    padding: 20px;
-    margin: 20px;
-    font-size: 22px;
-    line-height: 150px;
-}
-
-#hakkinda a{
-    text-decoration: none;
-    color: white;
-}
-
-#hakkinda a:visited{
-    text-decoration: none;
-    color: white;
-}
-
-#hakkinda a:hover{ /* üzerine geldiğinde */
-    text-decoration: none;
-    color: red;
-    font-size: 25px;
-}
-
-#iletisim{
-    padding: 20px;
-    margin: 20px;
-    font-size: 22px;
-    line-height: 150px;
-}
-
-#iletisim a{
-    text-decoration: none;
-    color: white;
-}
-
-#iletisim a:visited{
-    text-decoration: none;
-    color: white;
-}
-
-#iletisim a:hover{ /* üzerine geldiğinde */
-    text-decoration: none;
-    color: red;
-    font-size: 25px;
 }
