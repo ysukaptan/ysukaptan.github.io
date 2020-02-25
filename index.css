@@ -8,6 +8,7 @@ body{
 audio{
     height: 20px;
     width: 850px;
+    float: center;
 }
 #banner{
     font-size: xx-large;
