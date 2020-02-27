@@ -1,0 +1,110 @@
+body{
+    font-family: Tahoma;
+    font-size: 12px;
+    background-color: #210000;
+    margin: 0px;
+}
+
+audio{
+    height: 20px;
+    width: 850px;
+    border: 0px solid;
+    float: right;
+}
+#banner{
+    font-size: xx-large;
+    text-align: center;
+    background-image: url(banner.gif);
+    line-height: 28px;
+    padding: 50px;
+    border: 0px solid;
+    border-color:red;
+    color: white;
+}
+
+#menu{
+    float: left;
+    font-size: x-large;
+    text-align: center;
+    background-image: url(menu.jpg);
+    border: 0px solid;
+    border-color: #0A2540;
+    width: 150px;
+}
+
+#icerik{
+    float: left;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #BBDEFB;
+    border: 0px solid;
+    border-color: #810239;
+    height: 850px;
+}
+
+#icerik h1{
+    padding-top: 50px;
+    color: red;
+    line-height: 50px;
+}
+
+#menu a{
+    line-height: 290px;
+    color: white;
+    text-decoration: none;
+}
+
+#menu a:hover{
+    font-size: 30px;
+    text-decoration: none;
+    color: wheat;
+}
+
+#menu a:visited:hover{
+    font-size: 30px;
+    text-decoration: none;
+    color: wheat;
+}
+
+#menu a:visited{
+    line-height: 150px;
+    color: white;
+    text-decoration: none;
+}
+
+#isim{
+    padding-top: 50px;
+    line-height: 28px;
+    margin-left: 155px;
+    font-size: 25px;
+}
+
+#soyisim{
+    line-height: 28px;
+    margin-left: 120px;
+    font-size: 25px;
+}
+
+#email{
+    line-height: 28px;
+    margin-left: 30px;
+    font-size: 25px;
+}
+
+#mesaj{
+    line-height: 28px;
+    margin-left: 102px;
+    font-size: 25px;
+}
+
+#dogumtarihi{
+    line-height: 28px;
+    margin-left: 2px;
+    font-size: 25px;
+}
+
+#buton{
+    margin-top: 20px;
+    margin-left: 108px;
+}
