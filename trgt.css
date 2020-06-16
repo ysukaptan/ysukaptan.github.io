@@ -1,0 +1,78 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#anasayfa{
+    text-align: center;
+    font-size: 200px;
+    
+}
+
+#tablo{
+    float: left;
+    border-radius: 15px;
+    border-color: wheat;
+    border-style: dotted;
+    height: 2005px;
+    width: 1865px;
+    background-color: teal;
+}
+
+#tablo2{
+    float: left;
+    border-radius: 15px;
+    border-color: wheat;
+    border-style: dotted;
+    height: 1850px;
+    width: 1550px;
+    margin-top: 50px;
+    margin-left: 50px;
+    background-color: rgb(29, 32, 32);
+    padding-top: 20px;
+    padding-left: 200px;
+}
+
+#baslik{
+    font-size: 70px;
+    color: wheat;
+    text-align: center;
+    margin-left: -100px;
+}
+
+#gorsel{
+    margin-left: 350px;
+}
+
+#paragraf{
+    font-size: 20px;
+    margin-left: -30px;
+    width: 1300px;
+    margin-top: 30px;
+}
+
+
+a:link{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-decoration: none;
+}
+
+a:visited{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    text-decoration: none;
+
+}
+
+a:visited:hover{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    text-decoration: none;
+}

@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#tablo{
+    float: left;
+    border-radius: 15px;
+    border-color: wheat;
+    border-style: dotted;
+    height: 2005px;
+    width: 1865px;
+    background-color: teal;
+}
+
+#tablo2{
+    float: left;
+    border-radius: 15px;
+    border-color: wheat;
+    border-style: dotted;
+    height: 1850px;
+    width: 1550px;
+    margin-top: 50px;
+    margin-left: 50px;
+    background-color: rgb(29, 32, 32);
+    padding-top: 20px;
+    padding-left: 200px;
+}
+
+#baslik{
+    font-size: 70px;
+    color: wheat;
+    text-align: center;
+}
+
+a:link{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-decoration: none;
+    font-weight: 900;
+    line-height: 70px;
+}
+
+a:visited{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-decoration: none;
+    font-weight: 900;
+    line-height: 70px;
+}
+
+a:hover{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    text-decoration: none;
+    font-weight: 900;
+    line-height: 70px;
+}
+
+a:visited:hover{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    text-decoration: none;
+    font-weight: 900;
+    line-height: 70px;
+}
